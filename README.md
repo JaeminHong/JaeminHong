@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ## Design Tool:
 <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white" /> <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat&logo=AdobeIllustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 
 ## Front:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
